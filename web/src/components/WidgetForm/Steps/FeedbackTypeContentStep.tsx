@@ -32,7 +32,7 @@ export function FeedbackContentStep({
             screenshot: screenShot,
             feedbackContent,    
         });
-        feedbackContentSent();
+        feedbackContentSent()
     }
 
     return (
